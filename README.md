@@ -1,4 +1,4 @@
-            O App Pokédex é um aplicativo para consulta de pokémons,
+O App Pokédex é um aplicativo para consulta de pokémons,
             desenvolvido com base no tutorial do Manual do Dev. O principal
             objetivo deste projeto é aprofundar o conhecimento nas bases puras
             de JavaScript, HTML e CSS, proporcionando uma experiência prática
@@ -8,4 +8,8 @@
             desenvolvimento web enquanto cria algo visualmente envolvente e
             útil.
 
-            https://tatianakami.github.io/pokedex/
+
+
+
+ https://tatianakami.github.io/pokedex/
+            
