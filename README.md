@@ -7,3 +7,5 @@
             projeto ideal para explorar conceitos fundamentais de
             desenvolvimento web enquanto cria algo visualmente envolvente e
             útil.
+
+            https://tatianakami.github.io/pokedex/
